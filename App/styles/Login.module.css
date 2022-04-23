@@ -1,0 +1,88 @@
+.textdiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.product {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+
+  color: #000000;
+}
+
+.text {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 18px;
+  margin-top: -20px;
+  color: #a9a9a9;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.inputbox {
+  width: 80vw;
+  height: 50px;
+  border: 0;
+  padding: 10px;
+  background: rgba(231, 231, 231, 0.63);
+  border-radius: 10px;
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 20px;
+  color: #000000;
+}
+
+.detailinp {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 20px;
+  color: #000000;
+}
+
+.container {
+  margin-top: 60px;
+}
+
+.forgetpass {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  text-decoration-line: underline;
+  margin-left: 45vw;
+  margin-top: 10px;
+  color: #48b05a;
+}
+
+.button {
+  width: 169px;
+  height: 44px;
+  margin-left: 20vw;
+  margin-top: 60px;
+
+  font-family: "Montserrat", sans-serif;
+  background: #48b05a;
+  border-radius: 9px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  border: 0;
+  color: #ffffff;
+}
